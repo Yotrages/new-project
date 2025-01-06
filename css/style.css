@@ -375,6 +375,12 @@ strong {
   height: auto;
 }
 
+@media screen and (max-width: 450px) {
+  .logo {
+    width: 20px;
+  }
+}
+
 .navbar-expand-lg .navbar-nav .nav-link {
   margin-right: 0;
   margin-left: 0;
